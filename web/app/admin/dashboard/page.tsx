@@ -235,7 +235,6 @@ export default function AdminDashboard() {
 - Janela 3: 11:15h às 12:00h - Janela clássica para executivos que cortam minutos antes do almoço.
 
 Análise finalizada: Lance uma campanha com o cupom "CRISEZERO" dando R$5 de desconto nesses 3 horários no WhatsApp!`);
-      setLoading(false);
       setAiLoading(false);
     }, 1500);
   };

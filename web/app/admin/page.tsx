@@ -51,7 +51,7 @@ export default function AdminLoginPage() {
       <div className="absolute top-1/4 left-1/4 w-32 h-32 bg-gold/5 rounded-full filter blur-2xl pointer-events-none" />
       <div className="absolute bottom-1/4 right-1/4 w-32 h-32 bg-gold/5 rounded-full filter blur-2xl pointer-events-none" />
 
-      <div className="w-full space-y-8 relative z-10 z-index: 10;">
+      <div className="w-full space-y-8 relative z-10">
         
         {/* Brand Header */}
         <div className="flex flex-col items-center space-y-3 text-center">
@@ -65,7 +65,7 @@ export default function AdminLoginPage() {
         </div>
 
         {/* Card Frame containing Email/Password */}
-        <div className="bg-card border border-gray-800 rounded-2xl p-6. shadow-xl space-y-6">
+        <div className="bg-card border border-gray-800 rounded-2xl p-6 shadow-xl space-y-6">
           <div className="flex border-b border-gray-800 pb-4 justify-between items-center">
             <h2 className="text-sm font-bold text-gray-200">Acesse sua Conta</h2>
             <span className="text-[10px] text-gray-400 tracking-wider">B2B TENANT SECURE</span>

@@ -93,7 +93,7 @@ export default function ClientBookingPage() {
               {[1, 2, 3, 4, 5].map((s) => (
                 <div 
                   key={s} 
-                  className={`h-1.5. rounded-full transition-all duration-300 ${
+                  className={`h-1.5 rounded-full transition-all duration-300 ${
                     s === step ? 'w-6 bg-gold h-1.5' : s < step ? 'w-2 bg-emerald h-1.5' : 'w-1.5 bg-gray-700 h-1.5'
                   }`}
                 />
