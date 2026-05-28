@@ -1,0 +1,23 @@
+{
+  "name": "BarberFlow SaaS - Agenda Inteligente",
+  "short_name": "BarberFlow",
+  "description": "Agenda Inteligente para Barbearias com Split de Comissão, Pix Automático e Inteligência Artificial.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0e12",
+  "theme_color": "#d9a05b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

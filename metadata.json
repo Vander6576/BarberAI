@@ -1,0 +1,8 @@
+{
+  "name": "BarberFlow",
+  "description": "Agenda Inteligente para Barbearias - Gestão completa, agendamentos automatizados, cobranças via Pix e IA para barbeiros autônomos no Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
